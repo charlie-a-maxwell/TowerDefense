@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TowerDefense", "TowerDefense.vcproj", "{CE56D420-AF47-490B-8E2C-2D00953A211B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DXUT", "DX9Common\DX9Common.vcproj", "{3B81D601-73A7-4367-A242-9D6F1DA322E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		NoPhysics-Debug|Win32 = NoPhysics-Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.Debug|Win32.Build.0 = Debug|Win32
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.NoPhysics-Debug|Win32.ActiveCfg = Debug|Win32
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.NoPhysics-Debug|Win32.Build.0 = Debug|Win32
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.Release|Win32.ActiveCfg = Release|Win32
+		{CE56D420-AF47-490B-8E2C-2D00953A211B}.Release|Win32.Build.0 = Release|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.Debug|Win32.Build.0 = Debug|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.NoPhysics-Debug|Win32.ActiveCfg = NoPhysics-Debug|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.NoPhysics-Debug|Win32.Build.0 = NoPhysics-Debug|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.Release|Win32.ActiveCfg = Release|Win32
+		{3B81D601-73A7-4367-A242-9D6F1DA322E8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
